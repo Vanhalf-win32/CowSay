@@ -19,7 +19,6 @@ class Cat extends \CowSay\Core\Calf {
             // // // // %s
 			            
 			             ';
-                
 
 	protected function buildCarcass(): string { 
 		return sprintf(
